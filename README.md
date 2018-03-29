@@ -14,13 +14,10 @@
 Hit up people you respect.  Ask them if they know someone that's able to start something like this.
 
 ### Step 1: 
-Non-techie finds customers
-Techie builds thing
+Non-techie finds customers, techie builds the thing
 
 ### Step 2:
 Start making revenue/profit
 
 ### Step 3:
 When your profit reached enough to pay a founder, they go full time.
-
-
